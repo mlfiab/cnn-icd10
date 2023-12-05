@@ -35,7 +35,7 @@ e.g: ['E86', 'J100', 'E8708', 'J90']
 2. CNN model for text classification 
 ## How to run
 
-## First, Embedding Training 
+### First, Embedding Training 
 1. Provide a text file for embedding in the folder (`embed/data.txt`)
 2. Run the following command to train the embedding 
 
